@@ -1,5 +1,5 @@
 # Hello, everyone! 👋
-# I'm Dominik, a Unity Game Developer with 3+ years of experience as well as a Top Rated Upwork Freelancer.
+# I'm Dominik, a Unity Game Developer with 3+ years of experience, Top Rated Plus Upwork Freelancer.
 
 ## About Me
 - 🔭 Currently working on exciting game projects & mobile apps using Unity.
