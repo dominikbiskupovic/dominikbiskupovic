@@ -6,6 +6,7 @@
 - 🌱 Constantly learning and improving my skills in C# programming & Game Design/Development.
 - 💡 Love creating video games and mobile apps that bring joy and entertainment to people.
 - ⚙️ Proficient in C#, and I also have knowledge of C, C++, and various other programming languages.
+- 🧐 Freelancing on Upwork
 
 ## Skills
 - Unity3D
